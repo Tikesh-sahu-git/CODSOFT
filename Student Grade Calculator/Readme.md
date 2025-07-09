@@ -29,6 +29,7 @@ A Java application that calculates student grades, generates performance reports
 4. Students are ranked by average score
 5.  Results are displayed and 📁 saved to `student_results.txt`
 
+---
 ## Sample Output 📋
 
 ═══════════════════════════════════
@@ -56,7 +57,7 @@ Enter marks for Science (0-100): 87
 Enter name of subject 3: English
 Enter marks for English (0-100): 83
 
-
+---
 ## Requirements 📋
 
 - Java 17 or higher
@@ -76,3 +77,13 @@ Enter marks for English (0-100): 83
 
 4. Run the program:
 java StudentGradeCalculator
+
+
+License 📄
+This project is licensed under the MIT License.
+
+Contributing 🤝
+Contributions, issues, and feature requests are welcome!
+Feel free to open a pull request.
+
+
