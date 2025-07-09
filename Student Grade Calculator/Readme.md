@@ -29,16 +29,16 @@ A Java application that calculates student grades, generates performance reports
 4. Students are ranked by average score
 5.  Results are displayed and 📁 saved to `student_results.txt`
 
----
-## Sample Output 📋
+# 🧮 Sample Input – Student Grade Calculator
 
+```text
 ═══════════════════════════════════
      STUDENT GRADE CALCULATOR
 ═══════════════════════════════════
 Enter the number of students: 2
 
 → Entering details for Student 1
-Enter student name: Alice
+Enter student name: Yash
 Enter the number of subjects (1–10): 3
 Enter name of subject 1: Math
 Enter marks for Math (0-100): 95
@@ -48,7 +48,7 @@ Enter name of subject 3: English
 Enter marks for English (0-100): 92
 
 → Entering details for Student 2
-Enter student name: Bob
+Enter student name: Raj
 Enter the number of subjects (1–10): 3
 Enter name of subject 1: Math
 Enter marks for Math (0-100): 85
@@ -57,7 +57,31 @@ Enter marks for Science (0-100): 87
 Enter name of subject 3: English
 Enter marks for English (0-100): 83
 
----
+
+```
+# 🧮 Output – Student Grade Calculator
+```
+═══════════════════════════════════
+STUDENT RANK LIST
+═══════════════════════════════════
+Rank 1 - Yash 🏆
+═══════════════════════════════════
+Student Name : Yash
+
+Subject-wise Marks:
+Maths : 92/100
+Science : 88/100
+English : 95/100
+
+Summary:
+Total Subjects : 3
+Total Marks : 275/300
+Average Percent : 91.67%
+Grade : A+ (Excellent)
+Performance : Outstanding performance!
+
+```
+
 ## Requirements 📋
 
 - Java 17 or higher
