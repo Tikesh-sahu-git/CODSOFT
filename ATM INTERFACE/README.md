@@ -170,54 +170,57 @@ indian-atm-simulator/
 │   └── 987654321.txt       # Sample account 2
 └── README.md               # This documentation
 ```
-
----
 🔐 Sample Accounts
 For testing purposes, two accounts are pre-configured:
-
+```
 Account Number	PIN	Initial Balance
 123456789	1234	₹10,000.00
 987654321	4321	₹5,000.00
-
+```
+---
 🛠️ Technical Details
-Data Persistence
-Each account is saved to [account-number].txt
-
+- Data Persistence
+- Each account is saved to [account-number].txt
+---
 File format includes:
-Account number
-PIN (hashed in real applications)
-Current balance
-Complete transaction history
-
+- Account number
+- PIN (hashed in real applications)
+- Current balance
+- Complete transaction history
+---
 Key Classes
-  BankAccount
-  Handles all account operations
-  Manages transaction history
-  Implements file I/O
-  ATM
-  Handles user interaction
-  Manages account authentication
-  Provides menu navigation
-
+ - BankAccount
+ - Handles all account operations
+ - Manages transaction history
+ - Implements file I/O
+ - ATM
+ - Handles user interaction
+ - Manages account authentication
+ - Provides menu navigation
+---
 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+---
+- This project is licensed under the MIT License - see the LICENSE file for details.
+---
 🤝 Contributing
-Contributions are welcome! Please follow these steps:
-Fork the repository
-Create your feature branch (git checkout -b feature/your-feature)
-Commit your changes (git commit -m 'Add some feature')
-Push to the branch (git push origin feature/your-feature)
-Open a Pull Request
-
+---
+- Contributions are welcome! Please follow these steps:
+- Fork the repository
+- Create your feature branch (git checkout -b feature/your-feature)
+- Commit your changes (git commit -m 'Add some feature')
+- Push to the branch (git push origin feature/your-feature)
+- Open a Pull Request
+---
 🌟 Future Enhancements
-Add administrator mode
-Implement proper password hashing
-Add fund transfer between accounts
-Support for multiple currencies
-Graphical user interface (GUI)
-
+---
+- Add administrator mode
+- Implement proper password hashing
+- Add fund transfer between accounts
+- Support for multiple currencies
+- Graphical user interface (GUI)
+---
 🙏 Acknowledgements
-Java Documentation
-ASCII art inspiration
+---
+- Java Documentation
+- ASCII art inspiration
 ---
