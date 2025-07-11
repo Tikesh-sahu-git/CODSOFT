@@ -1,0 +1,37 @@
+═══════════════════════════════════
+           STUDENT RANK LIST
+═══════════════════════════════════
+Rank 1 - Yash 🏆
+═══════════════════════════════════
+Student Name      : Yash
+
+Subject-wise Marks:
+Math           :  75/100
+English        :  86/100
+Scince         :  76/100
+
+Summary:
+Total Subjects    : 3
+Total Marks       : 237/300
+Average Percent : 79.00%
+Grade             : B (Good)
+Performance       : Good job! Keep improving.
+═══════════════════════════════════
+
+Rank 2 - Raj
+═══════════════════════════════════
+Student Name      : Raj
+
+Subject-wise Marks:
+Math           :  85/100
+English        :  48/100
+Scince         :  95/100
+
+Summary:
+Total Subjects    : 3
+Total Marks       : 228/300
+Average Percent : 76.00%
+Grade             : B (Good)
+Performance       : Good job! Keep improving.
+═══════════════════════════════════
+
