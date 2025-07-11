@@ -1,5 +1,9 @@
 # Student Management System
 
+![Java](https://img.shields.io/badge/Java-17%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/student-grade-calculator/pulls)
+
 A Java-based console application for managing student records, including adding, removing, searching, and editing student information with persistent file storage.
 
 ## Features
