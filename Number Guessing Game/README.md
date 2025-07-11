@@ -1,5 +1,9 @@
 # 🎯 Number Guessing Game - Java Console Application
 
+![Java](https://img.shields.io/badge/Java-17%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/student-grade-calculator/pulls)
+
 A fun and interactive console-based **Number Guessing Game** built using Java!  
 In this game, the player tries to guess a randomly generated number between 1 and 100 within a limited number of attempts.
 
