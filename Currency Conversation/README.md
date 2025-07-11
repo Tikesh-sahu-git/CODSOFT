@@ -2,8 +2,6 @@
 
 A user-friendly console-based Java application that allows users to convert between multiple international currencies with real-time formatted output. Designed for learning purposes and practicing input validation, control structures, and modular design in Java.
 
-![Application Screenshot](demo.gif) *(Replace with actual screenshot or GIF)*
-
 ## 📌 Features
 
 - **Multi-currency Conversion**:
@@ -88,11 +86,12 @@ $100.00 = ₹8,550.00
 ══════════════════════════════════════════
 ```
 📂 Project Structure
----
+```
 currency-converter-java/
 ├── CurrencyConverter.java    # Main application code
 ├── README.md                # This documentation
 └── LICENSE                  # MIT License file
+```
 ---
 
 🛡️ License
@@ -107,5 +106,5 @@ ASCII art inspiration for console UI borders
 
 🤝 Contributing
 Contributions are welcome!
-
+---
 
