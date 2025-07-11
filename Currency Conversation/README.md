@@ -1,5 +1,9 @@
 # 💱 Currency Converter (Java Console Application)
 
+![Java](https://img.shields.io/badge/Java-17%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/student-grade-calculator/pulls)
+
 A user-friendly console-based Java application that allows users to convert between multiple international currencies with real-time formatted output. Designed for learning purposes and practicing input validation, control structures, and modular design in Java.
 
 ## 📌 Features
